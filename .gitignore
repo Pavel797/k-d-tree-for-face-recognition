@@ -1,0 +1,16 @@
+.idea/
+*.iml
+out/
+gen/
+idea-gitignore.jar
+resources/templates.list
+resources/gitignore/*
+build/
+cmake-build-debug/
+build.properties
+junit*.properties
+IgnoreLexer.java~
+.gradle
+.DS_Store
+
+/verification
